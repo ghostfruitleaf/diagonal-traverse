@@ -1,4 +1,4 @@
-# Diagonal Traversal 
+# Diagonal Traversal - Optional Problem
 
 Given a matrix of M x N elements (M rows, N columns), return all elements of the matrix in diagonal order as shown in the below image.
 
@@ -25,5 +25,3 @@ https://drive.google.com/file/d/11SbGbOfT0m7d2Fmhs5xMYl61M9rIiVbA/view?usp=shari
 ![Diagonal Traversal example](images/matrix.png)
 
 
-
-## Optional
