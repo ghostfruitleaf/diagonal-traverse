@@ -9,6 +9,8 @@
 # ]
 # Example Output:  [1, 2, 4, 7, 5, 3, 6, 8, 9]
 
+# Time Complexity - 
+# Space Complexity - 
 def diagonal_traversal(matrix)
   raise NotImplementedError, "This method has not yet been implemented"
 end
